@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Add submodule for Blowfish theme">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/pages.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +41,9 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -80,11 +81,35 @@
       <option name="presentableId" value="Default" />
       <updated>1744734614404</updated>
       <workItem from="1744734619880" duration="1687000" />
-      <workItem from="1744736355285" duration="5584000" />
+      <workItem from="1744736355285" duration="5939000" />
     </task>
+    <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
+      <option name="closed" value="true" />
+      <created>1744742081647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744742081647</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add submodule for Blowfish theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add submodule for Blowfish theme" />
   </component>
 </project>
