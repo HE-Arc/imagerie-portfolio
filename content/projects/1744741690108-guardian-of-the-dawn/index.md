@@ -23,6 +23,6 @@ Projet d'étudiant pour le cours de d'Infographie 3D. Jeux d'action-aventure ré
 
 ## Vidéos
 
-{{< youtubeLite id="bh9tfp050ag" label="Blowfish-tools demo" >}}
+{{< youtubeLite id="bh9tfp050ag" label="Guardian of The Dawn Trailer" >}}
 
 ## Liens
