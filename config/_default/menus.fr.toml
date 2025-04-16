@@ -11,68 +11,73 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
-
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
-
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
-
-[[main]]
-pre = "github"
-name = "GitHub"
-url = "https://github.com/nunocoracao/blowfish"
-weight = 30
-
-[[main]]
-identifier = "github2"
-pre = "github"
-url = "https://github.com/nunocoracao/blowfish"
-weight = 40
-
-# Nested menus
-
-[[main]]
-name = "Parent"
-weight = 20
-
-[[main]]
-name = "sub-menu 1"
-parent = "Parent"
-pageRef = "samples"
-weight = 20
-
-[[main]]
-name = "sub-menu 2"
-parent = "Parent"
-pageRef = "samples"
-weight = 20
-
-[[main]]
-name = "sub-menu 3"
-parent = "Parent"
-pre = "github"
-pageRef = "samples"
-weight = 20
-
-# Sub-Navigation menu
-
-[[subnavigation]]
-name = "An interesting topic"
-pageRef = "tags/interesting-topic"
+name = "Projects"
+pageRef = "projects"
 weight = 10
 
-[[subnavigation]]
-name = "My Awesome Category"
-pageRef = "categories/awesome"
-weight = 20
+#[[main]]
+#  name = "Blog"
+#  pageRef = "posts"
+#  weight = 10
+#
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+#
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+#
+#[[main]]
+#pre = "github"
+#name = "GitHub"
+#url = "https://github.com/nunocoracao/blowfish"
+#weight = 30
+#
+#[[main]]
+#identifier = "github2"
+#pre = "github"
+#url = "https://github.com/nunocoracao/blowfish"
+#weight = 40
+#
+## Nested menus
+#
+#[[main]]
+#name = "Parent"
+#weight = 20
+#
+#[[main]]
+#name = "sub-menu 1"
+#parent = "Parent"
+#pageRef = "samples"
+#weight = 20
+#
+#[[main]]
+#name = "sub-menu 2"
+#parent = "Parent"
+#pageRef = "samples"
+#weight = 20
+#
+#[[main]]
+#name = "sub-menu 3"
+#parent = "Parent"
+#pre = "github"
+#pageRef = "samples"
+#weight = 20
+#
+## Sub-Navigation menu
+#
+#[[subnavigation]]
+#name = "An interesting topic"
+#pageRef = "tags/interesting-topic"
+#weight = 10
+#
+#[[subnavigation]]
+#name = "My Awesome Category"
+#pageRef = "categories/awesome"
+#weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

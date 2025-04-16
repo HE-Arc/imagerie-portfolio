@@ -1,15 +1,28 @@
 ---
-title: "guardian-of-the-dawn"
-date: 2025-04-15
+title: "Guardian of The Dawn"
+date: 2021-05-01
 draft: false
-description: "a description"
-tags: ["example", "tag"]
+description: "Projet d'étudiant pour le cours de d'Infographie 3D. Jeux d'action-aventure réalisé avec Unity."
+tags: ["3ème année", "Cours Infographie", "Unity", "Jeu-vidéo"]
+authors : ['Antoine Lestrade', "Nicolas Laoun", "Florian Feuillade"]
+showSummary: true
 ---
- an example to get you started
-# This is a heading
-## This is a subheading
-### This is a subsubheading
-#### This is a subsubsubheading
-This is a paragraph with **bold** and *italic* text.
-Check more at [Blowfish documentation](https://blowfish.page/)
-undefined
+
+## Description
+
+Projet d'étudiant pour le cours de d'Infographie 3D. Jeux d'action-aventure réalisé avec Unity.
+
+## Images
+
+{{< gallery >}}
+<img src="gallery/gotd1.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="gallery/gotd2.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="gallery/gotd3.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<img src="gallery/gotd4.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
+
+## Vidéos
+
+{{< youtubeLite id="bh9tfp050ag" label="Blowfish-tools demo" >}}
+
+## Liens

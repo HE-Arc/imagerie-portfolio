@@ -11,13 +11,13 @@ title = "Portfolio - Ingénierie Logiciel"
   logo = "arc_ing_logo.png"
   description = "Mon incroyable site web"
   # copyright = "Copy, _right?_ :thinking_face:"
-  dateFormat = "2 January 2006"
+  dateFormat = "2006"
 
 [params.author]
   name = "Portfolio - Ingénierie Logiciel"
   image = "arc_square_logo.png"
   headline = "Haute Ecole Arc Ingénierie"
-  bio = "Un peu plus à propos de vous"
+#  bio = "Un peu plus à propos de vous"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
