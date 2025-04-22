@@ -4,17 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="New favicons">
-      <change afterPath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/gallery/img2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/gallery/img3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/gallery/img4.png" afterDir="false" />
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added new article">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNDING.YML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/languages.fr.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.fr.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.fr.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.fr.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,50 +52,70 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Hugo.Hugo Build.executor": "Run",
+    "Hugo.Hugo server no fast render (1).executor": "Run",
+    "Hugo.Hugo server no fast render.executor": "Run",
     "Hugo.Hugo server.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/1745332229584-raymarching-c++-2024",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1745332229584-raymarching-c++-2024" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1745332229584-raymarching-c++-2024\gallery" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1744807882871-datacube-raycasting" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1744741690108-guardian-of-the-dawn\gallery" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1744741690108-guardian-of-the-dawn" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\config\_default" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1745332229584-raymarching-c++-2024\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1744807882871-datacube-raycasting\gallery" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\static" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1744741690108-guardian-of-the-dawn" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1744741690108-guardian-of-the-dawn\gallery" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\assets\css\schemes" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Hugo.Hugo server no fast render">
+    <configuration name="Hugo Build" type="HUGO_RUN_CONFIGURATION" factoryName="Hugo configuration factory">
+      <option name="hugo.plugin.arguments" value="" />
+      <option name="hugo.plugin.run.server" value="no" />
+      <option name="hugo.plugin.custom.project.dir" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hugo server no fast render" type="HUGO_RUN_CONFIGURATION" factoryName="Hugo configuration factory">
+      <option name="hugo.plugin.arguments" value="--disableFastRender" />
+      <option name="hugo.plugin.run.server" value="run" />
+      <option name="hugo.plugin.custom.project.dir" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Hugo server" type="HUGO_RUN_CONFIGURATION" factoryName="Hugo configuration factory">
       <option name="hugo.plugin.arguments" value="" />
       <option name="hugo.plugin.run.server" value="run" />
       <option name="hugo.plugin.custom.project.dir" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Hugo.Hugo server" />
+      <item itemvalue="Hugo.Hugo server no fast render" />
+      <item itemvalue="Hugo.Hugo Build" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
       </set>
     </attachedChunks>
   </component>
@@ -100,7 +130,12 @@
       <workItem from="1744734619880" duration="1687000" />
       <workItem from="1744736355285" duration="7210000" />
       <workItem from="1744784572964" duration="8360000" />
-      <workItem from="1744794518202" duration="4117000" />
+      <workItem from="1744794518202" duration="13180000" />
+      <workItem from="1744892610638" duration="122000" />
+      <workItem from="1744892750373" duration="1851000" />
+      <workItem from="1744970494838" duration="31000" />
+      <workItem from="1745324738803" duration="4308000" />
+      <workItem from="1745329080933" duration="4609000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -142,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744801253039</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added new article">
+      <option name="closed" value="true" />
+      <created>1744811140176</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744811140176</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +208,7 @@
     <MESSAGE value="Update GitHub Actions workflow for Hugo site deployment and enhance caching" />
     <MESSAGE value="Update project details and new content for &quot;Guardian of The Dawn&quot;" />
     <MESSAGE value="New favicons" />
-    <option name="LAST_COMMIT_MESSAGE" value="New favicons" />
+    <MESSAGE value="Added new article" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new article" />
   </component>
 </project>

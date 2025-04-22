@@ -3,13 +3,13 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://estradel.github.io/IL_Portfolio/"
 defaultContentLanguage = "fr"
 
 enableRobotsTXT = true
 [pagination]
 pagerSize = 100
-summaryLength = 30
+summaryLength = 0
 
 buildDrafts = false
 buildFuture = false

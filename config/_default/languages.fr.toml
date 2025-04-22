@@ -9,7 +9,7 @@ title = "Portfolio - Ingénierie Logiciel"
   isoCode = "fr"
   rtl = false
   logo = "arc_ing_logo.png"
-  description = "Mon incroyable site web"
+  description = "Portfolio de la filière Informatique et Systèmes de Communication (ISC) orientation Ingénierie Logiciel (IL) de la Haute Ecole Arc (HE-Arc)"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2006"
 
@@ -17,7 +17,7 @@ title = "Portfolio - Ingénierie Logiciel"
   name = "Portfolio - Ingénierie Logiciel"
   image = "arc_square_logo.png"
   headline = "Haute Ecole Arc Ingénierie"
-#  bio = "Un peu plus à propos de vous"
+  bio = "La Haute Ecole Arc Ingénierie est au service d’une industrie unique au monde. Nous formons les ingénieurs dont celle-ci a besoin pour se maintenir à la pointe de l’innovation et l’accompagnons dans ses activités de recherche appliquée et développement."
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },

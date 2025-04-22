@@ -1,96 +1,76 @@
-# -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
-# https://nunocoracao.github.io/blowfish/docs/configuration/#theme-parameters
-
 colorScheme = "bloody"
-defaultAppearance = "light" # valid options: light or dark
+defaultAppearance = "light"
 autoSwitchAppearance = false
-
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
-# robots = ""
-
 [header]
-  layout = "basic" # valid options: basic, fixed
+layout = "fixed-fill-blur"
 
 [footer]
- # showMenu = true
-  showCopyright = true
-  showThemeAttribution = true
-  showAppearanceSwitcher = true
-  showScrollToTop = true
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "image.jpg" # used in: hero, and card
-  showRecent = true
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts"
-  cardView = true
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
+layout = "background"
+homepageImage = "image.jpg"
+showRecent = false
+showRecentItems = 12
+showMoreLink = true
+showMoreLinkDest = "/projects"
+cardView = true
+cardViewScreenWidth = true
+layoutBackgroundBlur = true
 
 [article]
-  showDate = true
-#  showViews = true
-#  showLikes = true
-  showDateUpdated = false
-  showAuthor = false
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background
-  showBreadcrumbs = true
-  showDraftLabel = false
-  showEdit = false
-   editURL = "https://github.com/username/repo/"
-#  editAppendPath = true
-  seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = true
-  invertPagination = false
-  showReadingTime = false
-  showTableOfContents = true
-  showTaxonomies = true
-  showAuthorsBadges = true
-  showWordCount = false
-  showSummary = false
-  sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+showDate = false
+showDateUpdated = false
+showAuthor = false
+showHero = true
+heroStyle = "big"
+showBreadcrumbs = false
+showDraftLabel = false
+showEdit = false
+editURL = "https://github.com/username/repo/"
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = true
+showReadingTime = false
+showTableOfContents = false
+showTaxonomies = true
+showAuthorsBadges = true
+showWordCount = false
+showSummary = false
 
 [list]
-  showBreadcrumbs = false
-  showSummary = true
-  showTableOfContents = false
-  showCards = false
-  groupByYear = true
-  cardView = false
-  cardViewScreenWidth = false
+showHero = true
+heroStyle = "background"
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = false
+showSummary = true
+showTableOfContents = true
+showCards = true
+groupByYear = true
+cardView = true
+cardViewScreenWidth = true
 
 [sitemap]
-  excludedKinds = []
+excludedKinds = []
 
 [taxonomy]
-  showTermCount = true
+showTermCount = true
+
+[term]
+cardView = true
+cardViewScreenWidth = false
+groupByYear = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
 
 [fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
 
 [verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
