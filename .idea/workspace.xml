@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added new article">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FUNDING.YML" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/hugo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/languages.fr.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.fr.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/menus.fr.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.fr.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,27 +43,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Hugo.Hugo Build.executor": "Run",
-    "Hugo.Hugo server no fast render (1).executor": "Run",
-    "Hugo.Hugo server no fast render.executor": "Run",
-    "Hugo.Hugo server.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/1745332229584-raymarching-c++-2024",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Hugo.Hugo Build.executor&quot;: &quot;Run&quot;,
+    &quot;Hugo.Hugo server no fast render (1).executor&quot;: &quot;Run&quot;,
+    &quot;Hugo.Hugo server no fast render.executor&quot;: &quot;Run&quot;,
+    &quot;Hugo.Hugo server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/1745332229584-raymarching-c++-2024&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1745332229584-raymarching-c++-2024" />
@@ -135,7 +128,8 @@
       <workItem from="1744892750373" duration="1851000" />
       <workItem from="1744970494838" duration="31000" />
       <workItem from="1745324738803" duration="4308000" />
-      <workItem from="1745329080933" duration="4609000" />
+      <workItem from="1745329080933" duration="4953000" />
+      <workItem from="1745395400575" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -185,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744811140176</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added new article">
+      <option name="closed" value="true" />
+      <created>1745333720597</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745333720597</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
