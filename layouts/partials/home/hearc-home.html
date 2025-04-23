@@ -1,0 +1,35 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+<article class="{{ if not .Site.Params.homepage.showRecent }}
+    h-full
+  {{ end }} flex flex-col items-center justify-center text-center">
+    <header class="relative px-1 py-1 flex flex-col items-center mb-3">
+        {{ with .Site.Params.Author.image }}
+            {{ $authorImage := "" }}
+            {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+                {{ $authorImage = resources.GetRemote . }}
+            {{ else }}
+                {{ $authorImage = resources.Get . }}
+            {{ end }}
+            {{ if $authorImage }}
+                <img class="mb-6 rounded-[2vw] h-24 w-auto object-scale-down"
+                     alt="{{ $.Site.Params.Author.name | default " Author" }}"
+                     src="{{ $authorImage.RelPermalink }}"/>
+            {{ end }}
+        {{ end }}
+        <h1 class="text-4xl font-extrabold">
+            {{ .Site.Params.Author.name | default .Site.Title }}
+        </h1>
+        {{ with .Site.Params.Author.headline }}
+            <h2 class="text-xl text-neutral-500 dark:text-neutral-400">
+                {{ . | markdownify }}
+            </h2>
+        {{ end }}
+        <div class="mt-1 text-2xl">
+            {{ partialCached "author-links.html" . }}
+        </div>
+    </header>
+    <section class="prose dark:prose-invert relative w-screen max-w-[1600px] px-[30px]">{{ .Content }}</section>
+</article>
+<section>
+    {{ partial "recent-articles/main.html" . }}
+</section>
