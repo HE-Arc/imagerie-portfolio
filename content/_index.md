@@ -2,7 +2,4 @@
 draft: false
 ---
 
-# Portfolio - Ingénierie logiciel
-
-
-{{< list title=" " cardView=True limit=12 where="Type" value="projects" >}}
+{{< list title=" " cardView=True limit=100 where="Type" value="projects" >}}
