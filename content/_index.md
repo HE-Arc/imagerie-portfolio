@@ -1,5 +1,8 @@
 ---
-title: "Page d'accueil"
+draft: false
 ---
 
-{{< list title="Projets" cardView=true limit=12 where="Type" value="projects" >}}
+# Portfolio - Ingénierie logiciel
+
+
+{{< list title="Projets" cardView=True limit=12 where="Type" value="projects" >}}

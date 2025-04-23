@@ -1,4 +1,4 @@
-colorScheme = "bloody"
+colorScheme = "hearc"
 defaultAppearance = "light"
 autoSwitchAppearance = false
 enableSearch = true
@@ -10,11 +10,11 @@ layout = "fixed-fill-blur"
 [footer]
 showCopyright = true
 showThemeAttribution = false
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
-layout = "background"
+layout = "page" # page / profile
 homepageImage = "image.jpg"
 showRecent = false
 showRecentItems = 12
@@ -29,7 +29,7 @@ showDate = false
 showDateUpdated = false
 showAuthor = false
 showHero = true
-heroStyle = "big"
+heroStyle = "basic"
 showBreadcrumbs = false
 showDraftLabel = false
 showEdit = false
@@ -46,7 +46,7 @@ showWordCount = false
 showSummary = false
 
 [list]
-showHero = true
+showHero = false
 heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false

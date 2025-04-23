@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Updated Ray marching article">
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish" beforeDir="false" />
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Add new files and update existing content for Blowfish theme">
+      <change afterPath="$PROJECT_DIR$/assets/css/schemes/hearc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/schemes/he-arc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/schemes/output.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/languages.en.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/languages.fr.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.fr.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.en.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +90,11 @@
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\config\_default" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\static" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\themes" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1745332229584-raymarching-c++-2024\gallery" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1744807882871-datacube-raycasting\gallery" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\static" />
     </key>
   </component>
   <component name="RunManager" selected="Hugo.Hugo server no fast render">
@@ -201,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745396880215</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add new files and update existing content for Blowfish theme">
+      <option name="closed" value="true" />
+      <created>1745402147039</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745402147039</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +245,7 @@
     <MESSAGE value="New favicons" />
     <MESSAGE value="Added new article" />
     <MESSAGE value="Updated Ray marching article" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Ray marching article" />
+    <MESSAGE value="Add new files and update existing content for Blowfish theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new files and update existing content for Blowfish theme" />
   </component>
 </project>
