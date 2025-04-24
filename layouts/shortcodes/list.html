@@ -1,4 +1,3 @@
-
 {{ $limit := .Get "limit" | default 1 }}
 {{ $title := .Get "title" | default (i18n "shortcode.recent_articles" | emojify) }}
 {{ $parent := .Page.RelPermalink }}
@@ -6,53 +5,89 @@
 {{ $where := .Get "where" }}
 {{ $value := .Get "value" }}
 {{ $cardViewScreenWidth := .Get "cardViewScreenWidth" | default false }}
+{{ $groupByYear := .Get "groupByYear" | default true }}
+{{ $orderByWeight := .Get "orderByWeight" | default true }}
 
 <h2 class="mt-20 text-2xl font-extrabold mb-10">{{ $title }}</h2>
 
 
-{{ if $cardView | default false}}
+{{ if $cardView | default false }}
 
+    {{ if $groupByYear }}
 
-    {{ $pages := .Site.RegularPages }}
-    {{ if $where }}
-        {{ $pages = where .Site.RegularPages $where $value }}
-    {{ end }}
+        {{ $pages := .Site.RegularPages }}
+        {{ if $where }}
+            {{ $pages = where .Site.RegularPages $where $value }}
+        {{ end }}
 
-    {{ $groupedPages := $pages.GroupByDate "2006" }}
+        {{ $groupedPages := $pages.GroupByDate "2006" }}
 
-    {{ range $groupedPages }}
+        {{ range $groupedPages }}
+            {{ if $cardViewScreenWidth }}
+                <div class="relative w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
+            {{ end }}
+            <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
+                {{ .Key }}
+            </h2>
+            <section
+                    class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 {{ if $cardViewScreenWidth }} xl:grid-cols-4 2xl:grid-cols-5 {{ end }}">
+                {{ range .Pages }}
+                    {{ if not (eq .RelPermalink $parent) }}
+                        {{ partial "article/card.html" . }}
+                    {{ end }}
+                {{ end }}
+            </section>
+            {{ if $cardViewScreenWidth }} </div> {{ end }}
+        {{ end }}
+    {{ else }}
+
         {{ if $cardViewScreenWidth }}
             <div class="relative w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
+            <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+        {{ else }}
+            <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
         {{ end }}
-        <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-            {{ .Key }}
-        </h2>
-        <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 {{ if $cardViewScreenWidth }} xl:grid-cols-4 2xl:grid-cols-5 {{ end }}">
-            {{ range .Pages }}
-                {{ if not (eq .RelPermalink $parent) }}
+        {{ if not $orderByWeight }}
+            {{ $pages := .Site.RegularPages }}
+            {{ if $where }}
+                {{ $pages = where $pages $where $value }}
+            {{ end }}
+            {{ range $pages.GroupByDate "2006" }}
+                {{ range .Pages }}
                     {{ partial "article/card.html" . }}
                 {{ end }}
             {{ end }}
+        {{ else }}
+            {{ $pages := .Site.RegularPages }}
+            {{ if $where }}
+                {{ $pages = where $pages $where $value }}
+            {{ end }}
+            {{ range $pages.ByWeight }}
+                {{ partial "article/card.html" . }}
+            {{ end }}
+        {{ end }}
+
         </section>
         {{ if $cardViewScreenWidth }} </div> {{ end }}
+
     {{ end }}
 
 {{ else }}
 
-<section class="space-y-10 w-full mt-10 mb-10">
-    {{ if $where }}
-        {{ range ( where .Site.RegularPages $where $value | first $limit ) }}
-            {{ if not (eq .RelPermalink $parent) }}
-                {{ partial "article-link/simple.html" . }}
+    <section class="space-y-10 w-full mt-10 mb-10">
+        {{ if $where }}
+            {{ range (where .Site.RegularPages $where $value | first $limit) }}
+                {{ if not (eq .RelPermalink $parent) }}
+                    {{ partial "article-link/simple.html" . }}
+                {{ end }}
             {{ end }}
-        {{end}}
-    {{ else }}
-        {{ range .Site.RegularPages | first $limit }}
-            {{ if not (eq .RelPermalink $parent) }}
-                {{ partial "article-link/simple.html" . }}
+        {{ else }}
+            {{ range .Site.RegularPages | first $limit }}
+                {{ if not (eq .RelPermalink $parent) }}
+                    {{ partial "article-link/simple.html" . }}
+                {{ end }}
             {{ end }}
-        {{end}}
-    {{ end }}
-</section>
+        {{ end }}
+    </section>
 
 {{ end }}

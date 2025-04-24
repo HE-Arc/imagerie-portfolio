@@ -10,7 +10,8 @@ authors : ['Antoine Lestrade', "Nicolas Laoun", "Florian Feuillade"]
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
 
-Projet d'étudiant pour le cours de d'Infographie 3D. Jeux d'action-aventure réalisé avec Unity.
+Projet d'étudiant pour le cours de d'Infographie 3D. 
+Jeux d'action-aventure réalisé avec Unity URP.
 
 {{< youtubeLite id="bh9tfp050ag" label="Guardian of The Dawn Trailer" >}}
 

@@ -1155,18 +1155,11 @@ body.zen-mode-enable {
     width: calc(var(--spacing) * 1);
     height: calc(var(--spacing) * 1);
   }
-  .size-14 {
-    width: calc(var(--spacing) * 14);
-    height: calc(var(--spacing) * 14);
-  }
   .\!h-px {
     height: 1px !important;
   }
   .h-0 {
     height: calc(var(--spacing) * 0);
-  }
-  .h-1 {
-    height: calc(var(--spacing) * 1);
   }
   .h-1\/2 {
     height: calc(1/2 * 100%);
@@ -1264,12 +1257,6 @@ body.zen-mode-enable {
   .w-36 {
     width: calc(var(--spacing) * 36);
   }
-  .w-\[6rem\] {
-    width: 6rem;
-  }
-  .w-\[12rem\] {
-    width: 12rem;
-  }
   .w-\[15\%\] {
     width: 15%;
   }
@@ -1279,17 +1266,8 @@ body.zen-mode-enable {
   .w-auto {
     width: auto;
   }
-  .w-fit {
-    width: fit-content;
-  }
   .w-full {
     width: 100%;
-  }
-  .w-max {
-    width: max-content;
-  }
-  .w-min {
-    width: min-content;
   }
   .w-screen {
     width: 100vw;
@@ -1323,9 +1301,6 @@ body.zen-mode-enable {
   }
   .max-w-full {
     max-width: 100%;
-  }
-  .max-w-max {
-    max-width: max-content;
   }
   .max-w-prose {
     max-width: 65ch;
@@ -1454,9 +1429,6 @@ body.zen-mode-enable {
   .flex-row {
     flex-direction: row;
   }
-  .flex-nowrap {
-    flex-wrap: nowrap;
-  }
   .flex-wrap {
     flex-wrap: wrap;
   }
@@ -1475,13 +1447,6 @@ body.zen-mode-enable {
   .gap-4 {
     gap: calc(var(--spacing) * 4);
   }
-  .space-y-0 {
-    :where(& > :not(:last-child)) {
-      --tw-space-y-reverse: 0;
-      margin-block-start: calc(calc(var(--spacing) * 0) * var(--tw-space-y-reverse));
-      margin-block-end: calc(calc(var(--spacing) * 0) * calc(1 - var(--tw-space-y-reverse)));
-    }
-  }
   .space-y-2 {
     :where(& > :not(:last-child)) {
       --tw-space-y-reverse: 0;
@@ -1494,13 +1459,6 @@ body.zen-mode-enable {
       --tw-space-y-reverse: 0;
       margin-block-start: calc(calc(var(--spacing) * 3) * var(--tw-space-y-reverse));
       margin-block-end: calc(calc(var(--spacing) * 3) * calc(1 - var(--tw-space-y-reverse)));
-    }
-  }
-  .space-y-4 {
-    :where(& > :not(:last-child)) {
-      --tw-space-y-reverse: 0;
-      margin-block-start: calc(calc(var(--spacing) * 4) * var(--tw-space-y-reverse));
-      margin-block-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-y-reverse)));
     }
   }
   .space-y-10 {
@@ -1771,9 +1729,6 @@ body.zen-mode-enable {
   .bg-neutral-300 {
     background-color: rgba(var(--color-neutral-300), 1);
   }
-  .bg-neutral-500 {
-    background-color: rgba(var(--color-neutral-500), 1);
-  }
   .bg-neutral-500\/50 {
     background-color: color-mix(in srgb, rgba(rgba(var(--color-neutral-500), 1), 1) 50%, transparent);
     @supports (color: color-mix(in lab, red, red)) {
@@ -1860,9 +1815,6 @@ body.zen-mode-enable {
   }
   .p-0 {
     padding: calc(var(--spacing) * 0);
-  }
-  .p-1 {
-    padding: calc(var(--spacing) * 1);
   }
   .p-1\.5 {
     padding: calc(var(--spacing) * 1.5);
@@ -2275,10 +2227,6 @@ body.zen-mode-enable {
   }
   .backdrop-blur-sm {
     --tw-backdrop-blur: blur(var(--blur-sm));
-    -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
-    backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
-  }
-  .backdrop-filter {
     -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
     backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   }
@@ -2832,11 +2780,6 @@ body.zen-mode-enable {
   .md\:grid-cols-3 {
     @media (width >= 853px) {
       grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-  }
-  .md\:grid-cols-4 {
-    @media (width >= 853px) {
-      grid-template-columns: repeat(4, minmax(0, 1fr));
     }
   }
   .md\:justify-start {
@@ -3540,86 +3483,9 @@ body.zen-mode-enable {
       display: none;
     }
   }
-  .\[\&\>\*\]\:m-0 {
-    &>* {
-      margin: calc(var(--spacing) * 0);
-    }
-  }
-  .\[\&\>\*\]\:my-4 {
-    &>* {
-      margin-block: calc(var(--spacing) * 4);
-    }
-  }
-  .\[\&\>figure\]\:m-0 {
-    &>figure {
-      margin: calc(var(--spacing) * 0);
-    }
-  }
-  .\[\&\>figure\]\:m-332 {
-    &>figure {
-      margin: calc(var(--spacing) * 332);
-    }
-  }
-  .\[\&\>figure\]\:my-1 {
-    &>figure {
-      margin-block: calc(var(--spacing) * 1);
-    }
-  }
-  .\[\&\>figure\]\:my-2 {
-    &>figure {
-      margin-block: calc(var(--spacing) * 2);
-    }
-  }
   .\[\&\>figure\]\:my-4 {
     &>figure {
       margin-block: calc(var(--spacing) * 4);
-    }
-  }
-  .\[\&\>figure\]\:my-6 {
-    &>figure {
-      margin-block: calc(var(--spacing) * 6);
-    }
-  }
-  .\[\&\>figure\]\:my-8 {
-    &>figure {
-      margin-block: calc(var(--spacing) * 8);
-    }
-  }
-  .\[\&\>figure\]\:my-16 {
-    &>figure {
-      margin-block: calc(var(--spacing) * 16);
-    }
-  }
-  .\[\&\>figure\]\:my-332 {
-    &>figure {
-      margin-block: calc(var(--spacing) * 332);
-    }
-  }
-  .\[\&\>figure\]\:space-y-0 {
-    &>figure {
-      :where(& > :not(:last-child)) {
-        --tw-space-y-reverse: 0;
-        margin-block-start: calc(calc(var(--spacing) * 0) * var(--tw-space-y-reverse));
-        margin-block-end: calc(calc(var(--spacing) * 0) * calc(1 - var(--tw-space-y-reverse)));
-      }
-    }
-  }
-  .\[\&\>figure\]\:space-y-32 {
-    &>figure {
-      :where(& > :not(:last-child)) {
-        --tw-space-y-reverse: 0;
-        margin-block-start: calc(calc(var(--spacing) * 32) * var(--tw-space-y-reverse));
-        margin-block-end: calc(calc(var(--spacing) * 32) * calc(1 - var(--tw-space-y-reverse)));
-      }
-    }
-  }
-  .\[\&\>figure\]\:space-x-0 {
-    &>figure {
-      :where(& > :not(:last-child)) {
-        --tw-space-x-reverse: 0;
-        margin-inline-start: calc(calc(var(--spacing) * 0) * var(--tw-space-x-reverse));
-        margin-inline-end: calc(calc(var(--spacing) * 0) * calc(1 - var(--tw-space-x-reverse)));
-      }
     }
   }
 }

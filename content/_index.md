@@ -2,4 +2,4 @@
 draft: false
 ---
 
-{{< list title=" " cardView=true limit=100 where="Type" value="projects" cardViewScreenWidth=false >}}
+{{< list title=" " cardView=true limit=100 where="Type" value="projects" cardViewScreenWidth=false groupByYear=true orderByWeight=true >}}
