@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Projets"
-pageRef = "projects"
+# name = "Projets"
+# pageRef = "projects"
 
 #[[main]]
 #  name = "Blog"

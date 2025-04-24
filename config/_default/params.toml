@@ -1,7 +1,7 @@
 colorScheme = "hearc"
 defaultAppearance = "light"
 autoSwitchAppearance = false
-enableSearch = true
+enableSearch = false
 enableCodeCopy = true
 
 [header]
@@ -28,7 +28,7 @@ layoutBackgroundBlur = true
 showDate = false
 showDateUpdated = false
 showAuthor = false
-showHero = true
+showHero = false
 heroStyle = "basic"
 showBreadcrumbs = false
 showDraftLabel = false
@@ -36,7 +36,7 @@ showEdit = false
 editURL = "https://github.com/username/repo/"
 seriesOpened = false
 showHeadingAnchors = true
-showPagination = true
+showPagination = false
 invertPagination = true
 showReadingTime = false
 showTableOfContents = false
@@ -51,10 +51,10 @@ heroStyle = "background"
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
-showSummary = true
-showTableOfContents = true
-showCards = true
-groupByYear = true
+showSummary = false
+showTableOfContents = false
+showCards = false
+groupByYear = false
 cardView = true
 cardViewScreenWidth = true
 
@@ -67,7 +67,7 @@ showTermCount = true
 [term]
 cardView = true
 cardViewScreenWidth = false
-groupByYear = true
+groupByYear = false
 
 [firebase]
 
