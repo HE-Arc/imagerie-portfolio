@@ -7,15 +7,30 @@ tags: ["Ra&D", "Groupe Imagerie", "Sports & Rehabilitation", "Machine Learning"]
 authors : ['Dimitri Kohler', "Antoine Lestrade", "Benoit Le Callennec"]
 ---
 
+{{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
+
 Génération Intuitive de Mouvements 3D avec du Machine Learning en Python.
 
 {{< youtubeLite id="0dUL6CL6YtI" label="GIM3D (2025)" >}}
 
-<br>
+<---> <!-- magic separator, between columns -->
 
-{{< gallery >}}
-<img src="gallery/GIM3D_0.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="gallery/GIM3D_1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="gallery/GIM3D_2.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="gallery/GIM3D_3.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
-{{< /gallery >}}
+<div class="[&>figure]:my-4">
+{{< figure
+src="gallery/GIM3D_0.png"
+>}}
+
+{{< figure
+src="gallery/GIM3D_1.png"
+>}}
+
+{{< figure
+src="gallery/GIM3D_2.png"
+>}}
+
+{{< figure
+src="gallery/GIM3D_3.png"
+>}}
+</div>
+
+{{% /columns %}}

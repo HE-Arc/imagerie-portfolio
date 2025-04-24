@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Update homepage layout and add new CSS for HeArc theme">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Update homepage layout and improve card view functionality">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/article/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/article/card.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/shortcodes/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/shortcodes/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/compiled/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/compiled/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1745332229584-raymarching-cpp-2024/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/1745332229584-raymarching-cpp-2024/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2025_GIM3D/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2025_GIM3D/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/shortcodes/columns.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/shortcodes/columns.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/blowfish/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/layouts/_default/single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +179,7 @@
       <workItem from="1745324738803" duration="4308000" />
       <workItem from="1745329080933" duration="4953000" />
       <workItem from="1745395400575" duration="807000" />
-      <workItem from="1745481646752" duration="5014000" />
+      <workItem from="1745481646752" duration="10122000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -266,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745405194249</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update homepage layout and improve card view functionality">
+      <option name="closed" value="true" />
+      <created>1745486736879</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745486736879</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +304,7 @@
     <MESSAGE value="Updated Ray marching article" />
     <MESSAGE value="Add new files and update existing content for Blowfish theme" />
     <MESSAGE value="Update homepage layout and add new CSS for HeArc theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update homepage layout and add new CSS for HeArc theme" />
+    <MESSAGE value="Update homepage layout and improve card view functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update homepage layout and improve card view functionality" />
   </component>
 </project>
