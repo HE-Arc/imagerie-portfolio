@@ -5,26 +5,37 @@
 {{ $cardView := .Get "cardView" }}
 {{ $where := .Get "where" }}
 {{ $value := .Get "value" }}
+{{ $cardViewScreenWidth := .Get "cardViewScreenWidth" | default false }}
+
 <h2 class="mt-20 text-2xl font-extrabold mb-10">{{ $title }}</h2>
 
 
 {{ if $cardView | default false}}
 
-<section class="grid gap-4 sm:grid-cols-2 md:grid-cols-3 text-left">
+
+    {{ $pages := .Site.RegularPages }}
     {{ if $where }}
-        {{ range ( where .Site.RegularPages $where $value | first $limit ) }}
-            {{ if not (eq .RelPermalink $parent) }}
-                {{ partial "article/card.html" . }}
-            {{ end }}
-        {{end}}
-    {{ else }}
-        {{ range .Site.RegularPages | first $limit }}
-            {{ if not (eq .RelPermalink $parent) }}
-                {{ partial "article/card.html" . }}
-            {{ end }}
-        {{end}}
+        {{ $pages = where .Site.RegularPages $where $value }}
     {{ end }}
-</section>
+
+    {{ $groupedPages := $pages.GroupByDate "2006" }}
+
+    {{ range $groupedPages }}
+        {{ if $cardViewScreenWidth }}
+            <div class="relative w-screen max-w-[1600px] px-[30px]" style="left: calc(max(-50vw,-800px) + 50%);">
+        {{ end }}
+        <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
+            {{ .Key }}
+        </h2>
+        <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 {{ if $cardViewScreenWidth }} xl:grid-cols-4 2xl:grid-cols-5 {{ end }}">
+            {{ range .Pages }}
+                {{ if not (eq .RelPermalink $parent) }}
+                    {{ partial "article/card.html" . }}
+                {{ end }}
+            {{ end }}
+        </section>
+        {{ if $cardViewScreenWidth }} </div> {{ end }}
+    {{ end }}
 
 {{ else }}
 

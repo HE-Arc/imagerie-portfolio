@@ -14,9 +14,9 @@ showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
-layout = "hearc-home" # page / profile
+layout = "page" # hearc-home / page / profile
 homepageImage = "image.jpg"
-showRecent = true
+showRecent = false
 showRecentItems = 12
 showMoreLink = true
 showMoreLinkDest = "/projects"

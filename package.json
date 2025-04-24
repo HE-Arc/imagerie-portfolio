@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "server": "hugo server -b http://localhost -p 8000",
-    "dev": "NODE_ENV=development npm install --save-dev tailwindcss./themes/blowfish/node_modules/tailwindcss/lib/cli.js -c ./themes/blowfish/tailwind.config.js -i ./themes/blowfish/assets/css/main.css -o ./assets/css/compiled/main.css --jit -w",
-    "build": "cross-env NODE_ENV=production \"./themes/blowfish/node_modules/tailwindcss/lib/cli.js\" -c ./themes/blowfish/tailwind.config.js -i ./themes/blowfish/assets/css/main.css -o ./assets/css/compiled/main.css --jit"
+    "dev": "tailwindcss -c ./themes/blowfish/tailwind.config.js -i ./themes/blowfish/assets/css/main.css -o ./assets/css/compiled/main.css --jit -w",
+    "build": "tailwindcss -c ./themes/blowfish/tailwind.config.js -i ./themes/blowfish/assets/css/main.css -o ./assets/css/compiled/main.css --jit"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/nunocoracao/blowfish_template#readme",
   "devDependencies": {
-    "cross-env": "^7.0.3",
+    "@tailwindcss/cli": "^4.1.4",
     "tailwindcss": "^4.1.4"
   }
 }
