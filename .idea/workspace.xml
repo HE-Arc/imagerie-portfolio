@@ -4,12 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Refactor gallery to use columns shortcode layout&#10;&#10;Replaced custom gallery implementations">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="New options for the list shortcode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/compiled/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/compiled/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/shortcodes/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/shortcodes/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/background.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/background.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/featured.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/featured.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/gallery/gotd1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/gallery/gotd1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/gallery/gotd2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/gallery/gotd2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/gallery/gotd3.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/gallery/gotd3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/gallery/gotd4.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/gallery/gotd4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744741690108-guardian-of-the-dawn/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/background.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/background.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/featured.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/featured.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/gallery/img1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/gallery/img1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/gallery/img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/gallery/img2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/gallery/img3.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/gallery/img3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/gallery/img4.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/gallery/img4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1744807882871-datacube-raycasting/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1745332229584-raymarching-cpp-2024/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2024_cpp_raymarching/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1745332229584-raymarching-cpp-2024/featured.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2024_cpp_raymarching/featured.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1745332229584-raymarching-cpp-2024/gallery/image1.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2024_cpp_raymarching/gallery/image1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1745332229584-raymarching-cpp-2024/gallery/image2.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2024_cpp_raymarching/gallery/image2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1745332229584-raymarching-cpp-2024/gallery/image3.png" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2024_cpp_raymarching/gallery/image3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/1745332229584-raymarching-cpp-2024/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2024_cpp_raymarching/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +58,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="9a3a1c0f-fceb-4a47-a679-c345854d0798" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Estradel/IL_Portfolio.git",
-    "accountId": "9a3a1c0f-fceb-4a47-a679-c345854d0798"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Estradel/IL_Portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;9a3a1c0f-fceb-4a47-a679-c345854d0798&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -67,7 +84,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/layouts/_default",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2021_unity_tardis",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,11 +98,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\layouts\_default" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\layouts\partials\article-link" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\layouts\shortcodes" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1745332229584-raymarching-c++-2024" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\1745332229584-raymarching-c++-2024\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_tardis" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_tardis\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2020_unity_yaarts" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2020_unity_yaarts\gallery" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\static" />
@@ -143,8 +160,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +190,8 @@
       <workItem from="1745324738803" duration="4308000" />
       <workItem from="1745329080933" duration="4953000" />
       <workItem from="1745395400575" duration="807000" />
-      <workItem from="1745481646752" duration="14595000" />
+      <workItem from="1745481646752" duration="15570000" />
+      <workItem from="1746175158222" duration="8018000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -279,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745491900585</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="New options for the list shortcode">
+      <option name="closed" value="true" />
+      <created>1745503453213</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745503453213</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +334,7 @@
     <MESSAGE value="Update homepage layout and add new CSS for HeArc theme" />
     <MESSAGE value="Update homepage layout and improve card view functionality" />
     <MESSAGE value="Refactor gallery to use columns shortcode layout&#10;&#10;Replaced custom gallery implementations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor gallery to use columns shortcode layout&#10;&#10;Replaced custom gallery implementations" />
+    <MESSAGE value="New options for the list shortcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="New options for the list shortcode" />
   </component>
 </project>
