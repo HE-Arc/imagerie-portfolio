@@ -4,7 +4,7 @@ date: 2024-04-22
 draft: false
 description: "Génération d’images en utilisant l’algorithme ray marching"
 summary: "Génération d’images en utilisant l’algorithme ray marching"
-tags: ["2ème année", "Cours Algorithmes 3", "3D", "Ray Marching"]
+tags: ["2ème année", "Cours Algorithmes 3", "3D", "Visualisation"]
 authors : ['Léon Metthez', "Isaac Metthez", "Sevan Yerly"]
 ---
 
