@@ -1221,6 +1221,9 @@ body.zen-mode-enable {
   .min-h-0 {
     min-height: calc(var(--spacing) * 0);
   }
+  .min-h-\[100px\] {
+    min-height: 100px;
+  }
   .min-h-\[130px\] {
     min-height: 130px;
   }
