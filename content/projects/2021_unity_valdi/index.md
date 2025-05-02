@@ -40,3 +40,5 @@ src="gallery/valdi4.png"
 </div>
 
 {{% /columns %}}
+
+{{< description OutilsCG>}}

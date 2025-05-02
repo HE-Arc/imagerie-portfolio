@@ -42,3 +42,5 @@ src="gallery/yaarts2.jpeg"
 </div>
 
 {{% /columns %}}
+
+{{< description OutilsCG>}}

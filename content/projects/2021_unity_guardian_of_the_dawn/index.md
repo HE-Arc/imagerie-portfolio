@@ -36,3 +36,5 @@ src="gallery/gotd4.png"
 </div>
 
 {{% /columns %}}
+
+{{< description OutilsCG>}}
