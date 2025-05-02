@@ -1,0 +1,26 @@
+{{ $topic := .Get 0 }}
+
+<!-- TICd -->
+{{ if eq $topic "TICd" }}
+<p>
+    <i>
+        <b>Groupe Imagerie @ HE-Arc</b>
+        <br>
+        Traitement d'images médicales, segmentation, classification, apprentissage profond.
+        Infographie, modélisation 3D, animation, rendu.
+    </i>
+</p>
+
+<!-- CPP -->
+{{ else if eq $topic "CPP" }}
+<p>
+    <i>
+        <b>1242.2 Langage C++ @ HE-Arc - 1ère année, semestre de printemps, 4.5h / semaine</b>
+        <br>
+        Ce cours est une introduction au langage C++ et à la programmation orientée objet (POO).
+        Il est destiné aux étudiants de la filière Ingénierie des Systèmes de Communication (ISC) de la HE-Arc Ingénierie.
+        Nous abordons les notions de classes, objets, surcharge des opérateurs, héritage, polymorphisme, transtypage, RTTI, modèles, exceptions et la bibliothèque standard.
+    </i>
+</p>
+
+{{ end }}
