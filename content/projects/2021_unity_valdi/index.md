@@ -4,18 +4,16 @@ date: 2021-05-01
 draft: false
 description: "Projet d'étudiant pour le cours de d'Infographie 3D. Jeu de plateforme 2D réalisé avec Unity."
 summary: "Projet d'étudiant pour le cours de d'Infographie 3D. Jeu de plateforme 2D réalisé avec Unity"
-tags: ["3ème année", "Cours Infographie", "Unity", "Collaboration Ceruleum"]
+tags: ["3ème année", "Cours outils d'infographie", "Unity", "2D"]
 authors : ['Dimitri Kohler', "Louis Blandelier", "Massimo De Santis", "Julien Dos Santos Ferreira"]
 ---
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
 
-Projet d'étudiant pour le cours de d'Infographie 3D.
-
-Puzzle game en 2D utilisant comme mécanique le changement des saisons. Le but du joueur est d’explorer le monde et se défaire des énigmes afin
-de pouvoir progresser dans le niveau.
-
-Ce fut mené en collaboration avec des élèves de l'école Ceruleum à Lausanne.
+Valdi et les 4 saisons est un jeu de plateforme 2D (puzzle game) réalisé avec Unity URP.
+Il utilise le changement des saisons comme mécanique principale.
+Le but du joueur est d’explorer le monde et de résoudre des énigmes afin de pouvoir progresser dans le niveau.
+Ce projet fut réalisé en collaboration avec les élèves du [Ceruleum (Lausanne)](https://www.ceruleum.ch/fr/).
 
 {{< youtubeLite id="2BK3wC1d1Mg" label="Valdi et les 4 saisons (2021) - Demo" >}}
 
