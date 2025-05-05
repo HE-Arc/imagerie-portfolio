@@ -37,4 +37,5 @@ src="gallery/yaarts2.jpeg"
 
 {{% /columns %}}
 
+{{< description DOTNET>}}
 {{< description OutilsCG>}}
