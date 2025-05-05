@@ -5,7 +5,7 @@ draft: false
 description: "Projet d'étudiant pour le cours de d'Infographie 3D. Jeu de plateforme 2D réalisé avec Unity."
 summary: "Projet d'étudiant pour le cours de d'Infographie 3D. Jeu de plateforme 2D réalisé avec Unity"
 tags: ["3ème année", "Cours outils d'infographie", "Unity", "2D"]
-authors : ['Dimitri Kohler', "Louis Blandelier", "Massimo De Santis", "Julien Dos Santos Ferreira"]
+authors : ['Dimitri Kohler', "Louis Bandelier", "Massimo De Santis", "Julien Dos Santos Ferreira"]
 ---
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
