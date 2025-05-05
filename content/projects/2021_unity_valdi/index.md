@@ -13,7 +13,7 @@ authors : ['Dimitri Kohler', "Louis Blandelier", "Massimo De Santis", "Julien Do
 Valdi et les 4 saisons est un jeu de plateforme 2D (puzzle game) réalisé avec Unity URP.
 Il utilise le changement des saisons comme mécanique principale.
 Le but du joueur est d’explorer le monde et de résoudre des énigmes afin de pouvoir progresser dans le niveau.
-Ce projet fut réalisé en collaboration avec les élèves du [Ceruleum (Lausanne)](https://www.ceruleum.ch/fr/).
+Ce projet fut réalisé en collaboration avec les étudiants du [Ceruleum (Lausanne)](https://www.ceruleum.ch/fr/).
 
 {{< youtubeLite id="2BK3wC1d1Mg" label="Valdi et les 4 saisons (2021) - Demo" >}}
 
