@@ -1,9 +1,9 @@
 ---
-title: "Gold Rush (2024)"
-date: 2024-04-22
+title: "Gold Rush (2023)"
+date: 2023-04-22
 draft: false
-description: "Génération d’images en utilisant l’algorithme ray marching"
-summary: "Génération d’images en utilisant l’algorithme ray marching"
+description: "Jeu d'exploration en 3 dimensions réalisé avec SFML en C++"
+summary: "Jeu d'exploration en 3 dimensions réalisé avec SFML en C++"
 tags: ["1ère année", "Cours C++", "SFML", "2D"]
 authors : ['Mehdi Guyot']
 ---
@@ -17,7 +17,7 @@ monde généré procéduralement.
 Une vue du dessus, une de côté et une dernière de côté mais avec une rotation de 90° autour de l'axe vertical. 
 Ces vues permettent ainsi de représenter les 3 dimensions du monde.
 
-{{< youtubeLite id="LM2Y1h2g6Lc" label="Gold Rush (2024) - Demo" >}}
+{{< youtubeLite id="LM2Y1h2g6Lc" label="Gold Rush (2023) - Demo" >}}
 
 <---> <!-- magic separator, between columns -->
 

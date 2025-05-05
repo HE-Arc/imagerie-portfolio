@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="New projects YAARTS, TARDIS and Valdi">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Gold rush + Path of the Wisp + Corrections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/background.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/featured.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/featured.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_guardian_of_the_dawn/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2021_unity_tardis/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_unity_tardis/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2021_unity_valdi/featured.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2024_cpp_gold_rush/featured.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2024_cpp_gold_rush/gallery/gold1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2024_cpp_gold_rush/gallery/gold2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2024_cpp_gold_rush/gallery/gold3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2024_cpp_gold_rush/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2024_cpp_gold_rush",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2023_cpp_platform_caasi",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,11 +82,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2023_cpp_platform_caasi" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2023_cpp_platform_caasi\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_cpp_gold_rush" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_cpp_gold_rush\gallery" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp\gallery" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp" />
@@ -175,7 +175,8 @@
       <workItem from="1745329080933" duration="4953000" />
       <workItem from="1745395400575" duration="807000" />
       <workItem from="1745481646752" duration="15570000" />
-      <workItem from="1746175158222" duration="17005000" />
+      <workItem from="1746175158222" duration="17591000" />
+      <workItem from="1746447968585" duration="803000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -297,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746183511320</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Gold rush + Path of the Wisp + Corrections">
+      <option name="closed" value="true" />
+      <created>1746447380311</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746447380311</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,6 +337,7 @@
     <MESSAGE value="Refactor gallery to use columns shortcode layout&#10;&#10;Replaced custom gallery implementations" />
     <MESSAGE value="New options for the list shortcode" />
     <MESSAGE value="New projects YAARTS, TARDIS and Valdi" />
-    <option name="LAST_COMMIT_MESSAGE" value="New projects YAARTS, TARDIS and Valdi" />
+    <MESSAGE value="Gold rush + Path of the Wisp + Corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gold rush + Path of the Wisp + Corrections" />
   </component>
 </project>
