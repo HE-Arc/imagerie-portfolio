@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Arrow Tower (2024)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2024_p2_arrow_tower/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2024_p2_arrow_tower/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Typocalypse (2024)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +166,7 @@
       <workItem from="1745395400575" duration="807000" />
       <workItem from="1745481646752" duration="15570000" />
       <workItem from="1746175158222" duration="17591000" />
-      <workItem from="1746447968585" duration="6579000" />
+      <workItem from="1746447968585" duration="7514000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -315,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746452241151</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Typocalypse (2024)">
+      <option name="closed" value="true" />
+      <created>1746456212051</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1746456212051</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +354,7 @@
     <MESSAGE value="Gold rush + Path of the Wisp + Corrections" />
     <MESSAGE value="Plateforme Caasi" />
     <MESSAGE value="Arrow Tower (2024)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrow Tower (2024)" />
+    <MESSAGE value="Typocalypse (2024)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typocalypse (2024)" />
   </component>
 </project>

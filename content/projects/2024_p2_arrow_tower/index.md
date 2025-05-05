@@ -5,7 +5,7 @@ draft: false
 description: "Jeu multijoueur local réalisé avec Godot. Inspiré de TowerFall Ascension et Stick Fight : The Game."
 summary: "Jeu multijoueur local réalisé avec Godot. Inspiré de TowerFall Ascension et Stick Fight : The Game."
 tags: ["2ème année", "Projet P2", "Godot", "2D"]
-authors : ['Joey Schmied', "Julien Brechbühler", "Guillaume Guillaume", "Loris Vanoni", "Rosalba Guede"]
+authors : ['Joey Schmied', "Julien Brechbühler", "Alexandre Guillaume", "Loris Vanoni", "Rosalba Guede"]
 ---
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
