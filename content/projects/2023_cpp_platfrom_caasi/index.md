@@ -1,5 +1,5 @@
 ---
-title: "Platform Caasi (2023)"
+title: "Platfrom Caasi (2023)"
 date: 2023-04-22
 draft: false
 description: "Jeu de plateforme réalisé avec SFML en C++"
