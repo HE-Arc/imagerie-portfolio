@@ -3,7 +3,7 @@ title: "Super Slide (2023)"
 date: 2023-02-01
 draft: false
 description: "SuperSlide : jeu mobile (Android) en 2D"
-tags: ["2ème année", "Projet P2 SA", "2D", "Jeu mobile"]
+tags: ["2ème année", "Projet P2 SA", "Jeu mobile", "2D"]
 authors : ["Flückiger Jonas", "Nouidri Sami", "Plumey Simon"]
 ---
 
