@@ -11,20 +11,16 @@ authors : ['Antoine Lestrade']
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
 
-Ce projet consiste à visualiser en temps réel, dans un canevas HTML, des matrices de données,
-appelé Datacube, issues de l’observation terrestre.
+Ce projet visualise en temps réel des matrices de données 3D (Datacube) d'observation terrestre dans un canevas HTML.
+Développé en JavaScript avec WebGL, il utilise un algorithme de Raycasting amélioré pour le rendu volumétrique des Datacubes. 
+Les Datacubes peuvent être de dimensions 16<sup>3</sup>, 64<sup>3</sup>, 256<sup>3</sup> et 1024<sup>3</sup>.
+Le programme propose trois modes de rendu :
 
-Le programme est développé en JavaScript et utilise l’API graphique WebGL.
-Le rendu de ces Datacube est réalisé grâce un algorithme de Raycasting amélioré.
-Les dimensions de Datacube supportées sont 16<sup>3</sup>, 64<sup>3</sup>, 256<sup>3</sup> et 1024<sup>3</sup>.
+- X-Ray pour les Datacubes XYZ
+- Surfaces implicites pour les Datacubes XYZ
+- Dérivé pour les Datacubes XY temporel
 
-Le programme dispose de trois modes de rendu de volume :
-
-* Un premier rendu, appelé X-Ray pour les Datacube XYZ.
-* Un deuxième rendu simulant les surfaces implicite pour les Datacube XYZ.
-* Un troisième rendu, appelé Dérivé, pour les Datacube XY avec une dimension de temps.
-
-Tous les algorithmes sont intégrés dans un notebook Jupyter.
+Les algorithmes sont intégrés et utilisable dans des notebook Jupyter.
 
 {{< youtubeLite id="vNDo0Q4X0m8" label="DataCube Raycasting Demo" >}}
 
