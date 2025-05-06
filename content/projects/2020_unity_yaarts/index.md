@@ -4,7 +4,7 @@ date: 2020-05-01
 draft: false
 description: "Projet d'étudiant pour le cours de d'Infographie 3D. Jeu RTS réalisé avec Unity."
 summary: "Projet d'étudiant pour le cours de d'Infographie 3D. Jeu RTS réalisé avec Unity"
-tags: ["3ème année", "Cours outils d'infographie", "Unity", "3D"]
+tags: ["3ème année", "Cours .NET", "Cours outils d'infographie", "Unity", "3D"]
 authors : ['Sol Rosca', "Nathan Latino", "Tristan Seuret"]
 ---
 

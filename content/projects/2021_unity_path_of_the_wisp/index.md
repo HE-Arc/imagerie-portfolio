@@ -10,7 +10,8 @@ authors : ['Steve Mendes Reis', "Grégoire Rebstein", "Robin Danz", "Maxime Welc
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
 
-Path of the Wisp est un jeu de plateforme-réflexion en 2D développé dans le cadre d'un projet d'Infographie. 
+Path of the Wisp est un jeu de plateforme-réflexion en 2D développé dans le cadre d'un projet d'Infographie.
+La mécanique principale est de devoir changer de forme pour adapter son gameplay en fonction de la situation.
 Il est développé sous Unity et est le fruit d'une collaboration avec le [Ceruleum (Lausanne)](https://www.ceruleum.ch/fr/) pour la cinématique d'introduction et la direction artistique, 
 le [CMFS (Lausanne)](https://www.cfms.ch/) pour les effets sonores et le [Conservatoire de Reims](https://www.reims.fr/la-culture-a-reims/conservatoire-a-rayonnement-regional-de-reims) pour la bande originale.
 
