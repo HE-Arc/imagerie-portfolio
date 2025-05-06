@@ -2,8 +2,8 @@
 title: "Flipp3r (2022)"
 date: 2022-04-22
 draft: false
-description: "Jeu multijoueur local réalisé avec Godot. Inspiré de TowerFall Ascension et Stick Fight : The Game."
-summary: "Jeu multijoueur local réalisé avec Godot. Inspiré de TowerFall Ascension et Stick Fight : The Game."
+description: "Flipper mélangeant 2D, 3D et Réalité augmentée présenté durant l'édition 2021 du NIFFF."
+summary: "Flipper mélangeant 2D, 3D et Réalité augmentée présenté durant l'édition 2021 du NIFFF."
 tags: ["3ème année", "Travail de Bachelor", "NIFFF", "Unity" ]
 authors : ["Bruno Costa", "Diogo Lopes Da Silva"]
 ---
@@ -15,10 +15,6 @@ en collaboration avec deux artistes de Neuchâtel (Mandril et Christopher Lanza)
 
 Ce flipper géant en dessin augmenté permet à trois personnes de jouer en même temps et d'affronter un robot maléfique avec des mécaniques de jeu innovantes.
 Il combine des dessins animés projetés avec des effets 3D visuels interactifs.
-
-
-
-
 
 {{< youtubeLite id="SVi54v19RmY" label="Un Flipper avec trois gravités, une expérience unique" >}}
 
@@ -38,7 +34,6 @@ src="gallery/flipp3r4.jpeg"
 >}}
 </div>
 
-
-
-
 {{% /columns %}}
+
+{{< description TB >}}
