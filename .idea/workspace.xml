@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added new project details for 2D Lights Raycasting in WebGL">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Updated project details for 2D Lights Raycasting in WebGL + Added Sly Contest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2021_webgl_light_raycasting/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_webgl_light_raycasting/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2023_tb_atmosonica/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2023_tb_atmosonica/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2024_p2_sly_contest",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2024_p2_dash_dungeon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,11 +74,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_dash_dungeon" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_dash_dungeon\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_sly_contest" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_sly_contest\gallery" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_webgl_light_raycasting" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_webgl_light_raycasting\gallery" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp" />
@@ -171,7 +169,7 @@
       <workItem from="1745481646752" duration="15570000" />
       <workItem from="1746175158222" duration="17591000" />
       <workItem from="1746447968585" duration="7744000" />
-      <workItem from="1746517289758" duration="10546000" />
+      <workItem from="1746517289758" duration="12281000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -349,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746530383793</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Updated project details for 2D Lights Raycasting in WebGL + Added Sly Contest">
+      <option name="closed" value="true" />
+      <created>1746533236112</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1746533236112</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,6 +393,7 @@
     <MESSAGE value="Fixed name type in Arrow Tower" />
     <MESSAGE value="NIFFF Projects (Atmosonica + Flipp3r)" />
     <MESSAGE value="Added new project details for 2D Lights Raycasting in WebGL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new project details for 2D Lights Raycasting in WebGL" />
+    <MESSAGE value="Updated project details for 2D Lights Raycasting in WebGL + Added Sly Contest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated project details for 2D Lights Raycasting in WebGL + Added Sly Contest" />
   </component>
 </project>
