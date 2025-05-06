@@ -41,3 +41,5 @@ src="gallery/2d_light_raycating4.png"
 </div>
 
 {{% /columns %}}
+
+{{< description OutilsCG >}}

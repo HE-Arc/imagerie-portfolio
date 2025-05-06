@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="NIFFF Projects (Atmosonica + Flipp3r)">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added new project details for 2D Lights Raycasting in WebGL">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/featured.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_tb_datacube_raycasting/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2021_webgl_light_raycasting/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_webgl_light_raycasting/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2023_tb_atmosonica/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2023_tb_atmosonica/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2021_webgl_light_raycasting",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2024_p2_sly_contest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,11 +76,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_sly_contest" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_sly_contest\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_webgl_light_raycasting" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_webgl_light_raycasting\gallery" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2022_tb_flipp3r\gallery" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_tb_datacube_raycasting" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp" />
@@ -90,7 +90,7 @@
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Hugo.Hugo server no fast render">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="Hugo Build" type="HUGO_RUN_CONFIGURATION" factoryName="Hugo configuration factory">
       <option name="hugo.plugin.arguments" value="" />
       <option name="hugo.plugin.run.server" value="no" />
@@ -171,7 +171,7 @@
       <workItem from="1745481646752" duration="15570000" />
       <workItem from="1746175158222" duration="17591000" />
       <workItem from="1746447968585" duration="7744000" />
-      <workItem from="1746517289758" duration="7717000" />
+      <workItem from="1746517289758" duration="10546000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -341,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746525031124</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Added new project details for 2D Lights Raycasting in WebGL">
+      <option name="closed" value="true" />
+      <created>1746530383793</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1746530383793</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,6 +386,7 @@
     <MESSAGE value="Typocalypse (2024)" />
     <MESSAGE value="Fixed name type in Arrow Tower" />
     <MESSAGE value="NIFFF Projects (Atmosonica + Flipp3r)" />
-    <option name="LAST_COMMIT_MESSAGE" value="NIFFF Projects (Atmosonica + Flipp3r)" />
+    <MESSAGE value="Added new project details for 2D Lights Raycasting in WebGL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new project details for 2D Lights Raycasting in WebGL" />
   </component>
 </project>

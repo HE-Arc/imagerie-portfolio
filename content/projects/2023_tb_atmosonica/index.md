@@ -27,11 +27,11 @@ src="gallery/atmosonica4.png"
 {{< figure
 src="gallery/atmosonica1.jpg"
 >}}
-
-</div>
 {{< figure
 src="gallery/atmosonica2.jpg"
 >}}
+</div>
+
 
 {{% /columns %}}
 
