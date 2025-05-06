@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Updated project details for 2D Lights Raycasting in WebGL + Added Sly Contest">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added Dash Dungeon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2024_p2_dash_dungeon",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2025_p2_tiny_dungeon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,11 +74,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2025_p2_tiny_dungeon" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2025_p2_tiny_dungeon\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_dash_dungeon" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_dash_dungeon\gallery" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_sly_contest" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_sly_contest\gallery" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp" />
@@ -169,7 +169,7 @@
       <workItem from="1745481646752" duration="15570000" />
       <workItem from="1746175158222" duration="17591000" />
       <workItem from="1746447968585" duration="7744000" />
-      <workItem from="1746517289758" duration="12281000" />
+      <workItem from="1746517289758" duration="14732000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -355,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746533236112</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added Dash Dungeon">
+      <option name="closed" value="true" />
+      <created>1746534876613</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1746534876613</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,6 +402,7 @@
     <MESSAGE value="NIFFF Projects (Atmosonica + Flipp3r)" />
     <MESSAGE value="Added new project details for 2D Lights Raycasting in WebGL" />
     <MESSAGE value="Updated project details for 2D Lights Raycasting in WebGL + Added Sly Contest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated project details for 2D Lights Raycasting in WebGL + Added Sly Contest" />
+    <MESSAGE value="Added Dash Dungeon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Dash Dungeon" />
   </component>
 </project>
