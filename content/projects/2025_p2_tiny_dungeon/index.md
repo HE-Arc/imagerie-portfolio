@@ -5,7 +5,7 @@ draft: false
 description: "Jeu d'aventure 2D avec génération procédurale de donjons développé avec Unity"
 summary: "Jeu d'aventure 2D avec génération procédurale de donjons développé avec Unity"
 tags: ["2ème année", "Projet P2 SA", "Unity", "2D"]
-authors : ["Sarah Aubry", "Lorie Marques", "Mélusine Joliat", "Alexis Béchir"]
+authors : ["Sarah Aubry", "Alexis Béchir", "Lorie Marques", "Mélusine Joliat"]
 ---
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
