@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added Dash Dungeon">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added Teeny-Tiny Dungeon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2025_p2_tiny_dungeon",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2024_rnd_swisscollnet",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,11 +75,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_rnd_swisscollnet" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_rnd_swisscollnet\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2025_p2_tiny_dungeon" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2025_p2_tiny_dungeon\gallery" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_dash_dungeon" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_p2_dash_dungeon\gallery" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp" />
@@ -88,7 +89,7 @@
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="Hugo.Hugo server no fast render">
     <configuration name="Hugo Build" type="HUGO_RUN_CONFIGURATION" factoryName="Hugo configuration factory">
       <option name="hugo.plugin.arguments" value="" />
       <option name="hugo.plugin.run.server" value="no" />
@@ -169,7 +170,8 @@
       <workItem from="1745481646752" duration="15570000" />
       <workItem from="1746175158222" duration="17591000" />
       <workItem from="1746447968585" duration="7744000" />
-      <workItem from="1746517289758" duration="14732000" />
+      <workItem from="1746517289758" duration="15311000" />
+      <workItem from="1746537911642" duration="3024000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -363,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746534876613</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Added Teeny-Tiny Dungeon">
+      <option name="closed" value="true" />
+      <created>1746537612658</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1746537612658</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,6 +413,7 @@
     <MESSAGE value="Added new project details for 2D Lights Raycasting in WebGL" />
     <MESSAGE value="Updated project details for 2D Lights Raycasting in WebGL + Added Sly Contest" />
     <MESSAGE value="Added Dash Dungeon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Dash Dungeon" />
+    <MESSAGE value="Added Teeny-Tiny Dungeon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Teeny-Tiny Dungeon" />
   </component>
 </project>
