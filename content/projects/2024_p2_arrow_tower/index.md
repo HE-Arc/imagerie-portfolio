@@ -16,7 +16,7 @@ Inspiré de _**TowerFall Ascension**_ et _**Stick Fight : The Game**_, le gamepl
 Le jeu est compatible uniquement sur PC et prend en charge toutes les manettes modernes grâce à Godot (PS4/5, Xbox, Nintendo, Logitech).
 
 {{< figure
-src="gallery/arrowtower2.jpeg"
+src="gallery/Arrow_Tower_3.png"
 >}}
 
 <---> <!-- magic separator, between columns -->
