@@ -4,7 +4,7 @@ date: 2021-05-01
 draft: false
 description: "Raycasting de lumières 2D avec WebGL"
 summary: "Raycasting de lumières 2D avec WebGL"
-tags: ["3ème année", "Cours Modèles d'infographie",  "WebGL", "Simulation"]
+tags: ["3ème année", "Cours Modèles d'infographie", "2D", "WebGL"]
 authors : ["Valentin Wyss", "Adrian Buzala"]
 ---
 
