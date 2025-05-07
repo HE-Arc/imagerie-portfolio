@@ -5,7 +5,7 @@ draft: false
 description: "Ce projet consiste à visualiser en temps réel, dans un canevas HTML, des matrices de données,
 appelé Datacube, issues de l’observation terrestre."
 summary: "Visualisation volumétrique en temps réel de Datacubes issues de satellites"
-tags: ["3ème année", "Travail de Bachelor",  "Visualisation 3D"]
+tags: ["3ème année", "Travail de Bachelor",  "Visualisation 3D", "WebGL"]
 authors : ['Antoine Lestrade']
 ---
 
@@ -14,20 +14,10 @@ authors : ['Antoine Lestrade']
 Ce projet visualise en temps réel des matrices de données 3D (Datacube) d'observation terrestre dans un canevas HTML.
 Développé en JavaScript avec WebGL, il utilise un algorithme de Raycasting amélioré pour le rendu volumétrique des Datacubes. 
 Les Datacubes peuvent être de dimensions 16<sup>3</sup>, 64<sup>3</sup>, 256<sup>3</sup> et 1024<sup>3</sup>.
-Le programme propose trois modes de rendu :
-
-- X-Ray pour les Datacubes XYZ
-- Surfaces implicites pour les Datacubes XYZ
-- Dérivé pour les Datacubes XY temporel
-
+Le programme propose trois modes de rendu : X-Ray pour les Datacubes XYZ, surfaces implicites pour les Datacubes XYZ, et dérivé pour les Datacubes XY temporel.
 Les algorithmes sont intégrés et utilisable dans des notebook Jupyter.
 
 {{< youtubeLite id="vNDo0Q4X0m8" label="DataCube Raycasting Demo" >}}
-
-## Liens
-* Lestrade, A. et al. (2023). Real-Time Renderings of Multidimensional Massive DataCubes on Jupyter Notebook. In: Cheng, LY. (eds) ICGG 2022 - Proceedings of the 20th International Conference on Geometry and Graphics. ICGG 2022. Lecture Notes on Data Engineering and Communications Technologies, vol 146. Springer, Cham. https://doi.org/10.1007/978-3-031-13588-0_59
-* Muller, C., Lestrade, A., Marty, M., Sadiku, A., Neijt, J., Voumard, Y., and Gobron, S.: EARTH OBSERVATION DATACUBES MULTI-VISUALIZATION TOOLBOX, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-4/W1-2022, 321–328, https://doi.org/10.5194/isprs-archives-XLVIII-4-W1-2022-321-2022, 2022.
-
 
 <---> <!-- magic separator, between columns -->
 
@@ -50,3 +40,5 @@ src="gallery/img4.png"
 </div>
 
 {{% /columns %}}
+
+{{< description TB >}}
