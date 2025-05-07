@@ -2,8 +2,8 @@
 title: "Hybris (2024)"
 date: 2024-04-22
 draft: false
-description: "Expérience sensorielle immersive réalisé durant l'édition 2023 du NIFFF"
-summary: "Expérience sensorielle immersive réalisé durant l'édition 2023 du NIFFF"
+description: "Expérience interactive et immersive réalisé durant l'édition 2024 du NIFFF"
+summary: "Expérience interactive et immersive réalisé durant l'édition 2024 du NIFFF"
 tags: ["3ème année", "Travail de Bachelor", "NIFFF", "IA" ]
 authors : ["Simon Plumey"]
 ---
