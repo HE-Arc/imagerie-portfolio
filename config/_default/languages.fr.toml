@@ -13,6 +13,9 @@ title = "2D / 3D / XR @ HE-Arc Ingénierie"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2006"
 
+[params.dev]
+  name="Créé par [@estradel](https://linktr.ee/estradel)"
+
 [params.author]
   name = "Haute École Arc Ingénierie - Tous droits réservés"
   image = "arc_ing_logo.png"

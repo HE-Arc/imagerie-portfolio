@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added Teeny-Tiny Dungeon">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Swapped Firstname &lt;-&gt; Lastname in Superslide">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2023_SuperSlide/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2023_SuperSlide/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/languages.fr.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.fr.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2021_webgl_light_raycasting/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_webgl_light_raycasting/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,36 +51,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Hugo.Hugo Build.executor&quot;: &quot;Run&quot;,
-    &quot;Hugo.Hugo server no fast render (1).executor&quot;: &quot;Run&quot;,
-    &quot;Hugo.Hugo server no fast render.executor&quot;: &quot;Run&quot;,
-    &quot;Hugo.Hugo server.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2024_rnd_swisscollnet&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.build.executor&quot;: &quot;Run&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.tailwindcss&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Hugo.Hugo Build.executor": "Run",
+    "Hugo.Hugo server no fast render (1).executor": "Run",
+    "Hugo.Hugo server no fast render.executor": "Run",
+    "Hugo.Hugo server.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2024_tb_hybris",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "configurable.tailwindcss",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_rnd_swisscollnet" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_rnd_swisscollnet\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_tb_hybris" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_tb_hybris\gallery" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2025_p2_tiny_dungeon" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2025_p2_tiny_dungeon\gallery" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\layouts\partials" />
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_rnd_swisscollnet" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp" />
@@ -89,7 +90,7 @@
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
     </key>
   </component>
-  <component name="RunManager" selected="Hugo.Hugo server no fast render">
+  <component name="RunManager" selected="npm.dev">
     <configuration name="Hugo Build" type="HUGO_RUN_CONFIGURATION" factoryName="Hugo configuration factory">
       <option name="hugo.plugin.arguments" value="" />
       <option name="hugo.plugin.run.server" value="no" />
@@ -172,7 +173,8 @@
       <workItem from="1746447968585" duration="7744000" />
       <workItem from="1746517289758" duration="15311000" />
       <workItem from="1746537911642" duration="3024000" />
-      <workItem from="1746601438484" duration="238000" />
+      <workItem from="1746601438484" duration="1834000" />
+      <workItem from="1746605414962" duration="5001000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -374,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746537612658</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Swapped Firstname &lt;-&gt; Lastname in Superslide">
+      <option name="closed" value="true" />
+      <created>1746601805131</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1746601805131</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,6 +425,7 @@
     <MESSAGE value="Updated project details for 2D Lights Raycasting in WebGL + Added Sly Contest" />
     <MESSAGE value="Added Dash Dungeon" />
     <MESSAGE value="Added Teeny-Tiny Dungeon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Teeny-Tiny Dungeon" />
+    <MESSAGE value="Swapped Firstname &lt;-&gt; Lastname in Superslide" />
+    <option name="LAST_COMMIT_MESSAGE" value="Swapped Firstname &lt;-&gt; Lastname in Superslide" />
   </component>
 </project>
