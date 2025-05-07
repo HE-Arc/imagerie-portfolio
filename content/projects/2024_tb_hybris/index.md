@@ -31,9 +31,6 @@ src="gallery/hybris2.jpg"
 {{< figure
 src="gallery/hybris4.png"
 >}}
-{{< figure
-src="gallery/hybris3.png"
->}}
 </div>
 
 

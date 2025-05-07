@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Swapped Firstname &lt;-&gt; Lastname in Superslide">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added Hybris (2024)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/languages.fr.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.fr.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2021_webgl_light_raycasting/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2021_webgl_light_raycasting/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/compiled/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/compiled/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2024_tb_hybris/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2024_tb_hybris/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/shortcodes/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/shortcodes/list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +177,7 @@
       <workItem from="1746517289758" duration="15311000" />
       <workItem from="1746537911642" duration="3024000" />
       <workItem from="1746601438484" duration="1834000" />
-      <workItem from="1746605414962" duration="5001000" />
+      <workItem from="1746605414962" duration="7004000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -384,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746601805131</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Added Hybris (2024)">
+      <option name="closed" value="true" />
+      <created>1746620610768</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1746620610768</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,6 +437,7 @@
     <MESSAGE value="Added Dash Dungeon" />
     <MESSAGE value="Added Teeny-Tiny Dungeon" />
     <MESSAGE value="Swapped Firstname &lt;-&gt; Lastname in Superslide" />
-    <option name="LAST_COMMIT_MESSAGE" value="Swapped Firstname &lt;-&gt; Lastname in Superslide" />
+    <MESSAGE value="Added Hybris (2024)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Hybris (2024)" />
   </component>
 </project>
