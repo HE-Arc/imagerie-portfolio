@@ -23,20 +23,17 @@ src="gallery/arrowtower2.jpeg"
 
 <div class="[&>figure]:my-4">
 {{< figure
-src="gallery/arrowtower1.png"
+src="gallery/Arrow_Tower_1.png"
 >}}
 
 {{< figure
-src="gallery/arrowtower4.jpeg"
+src="gallery/Arrow_Tower_2.png"
 >}}
 
 {{< figure
-src="gallery/arrowtower5.jpeg"
+src="gallery/Arrow_Tower_3.png"
 >}}
 
-{{< figure
-src="gallery/arrowtower6.jpeg"
->}}
 </div>
 
 {{% /columns %}}
