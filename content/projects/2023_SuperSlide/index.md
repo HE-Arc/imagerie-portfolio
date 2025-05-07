@@ -4,7 +4,7 @@ date: 2023-02-01
 draft: false
 description: "SuperSlide : jeu mobile (Android) en 2D"
 tags: ["2ème année", "Projet P2 SA", "Jeu mobile", "2D"]
-authors : ["Flückiger Jonas", "Nouidri Sami", "Plumey Simon"]
+authors : ["Jonas Flückiger", "Sami Nouidri", "Simon Plumey"]
 ---
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
