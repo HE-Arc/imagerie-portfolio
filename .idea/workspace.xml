@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Added Hybris (2024)">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Updated description and summary for Hybris (2024) project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/compiled/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/compiled/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/projects/2024_tb_hybris/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2024_tb_hybris/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/shortcodes/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/shortcodes/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/_index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/content/projects/2024_tb_hybris",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/layouts/shortcodes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,11 +77,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\layouts\shortcodes" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_tb_hybris" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_tb_hybris\gallery" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\layouts\partials" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_rnd_swisscollnet" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp" />
@@ -93,7 +91,7 @@
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="Hugo.Hugo server no fast render">
     <configuration name="Hugo Build" type="HUGO_RUN_CONFIGURATION" factoryName="Hugo configuration factory">
       <option name="hugo.plugin.arguments" value="" />
       <option name="hugo.plugin.run.server" value="no" />
@@ -177,7 +175,9 @@
       <workItem from="1746517289758" duration="15311000" />
       <workItem from="1746537911642" duration="3024000" />
       <workItem from="1746601438484" duration="1834000" />
-      <workItem from="1746605414962" duration="7004000" />
+      <workItem from="1746605414962" duration="8340000" />
+      <workItem from="1746634143065" duration="11000" />
+      <workItem from="1746699675816" duration="2748000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -395,7 +395,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746620610768</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="4 columns">
+      <option name="closed" value="true" />
+      <created>1746622735380</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1746622735380</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Updated description and summary for Hybris (2024) project">
+      <option name="closed" value="true" />
+      <created>1746622868956</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1746622868956</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,8 +429,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add submodule for Blowfish theme" />
-    <MESSAGE value="Update .gitignore and workspace.xml to include Blowfish theme submodule" />
     <MESSAGE value="Update GitHub Actions workflow for Hugo site deployment and enhance caching" />
     <MESSAGE value="Update project details and new content for &quot;Guardian of The Dawn&quot;" />
     <MESSAGE value="New favicons" />
@@ -438,6 +452,8 @@
     <MESSAGE value="Added Teeny-Tiny Dungeon" />
     <MESSAGE value="Swapped Firstname &lt;-&gt; Lastname in Superslide" />
     <MESSAGE value="Added Hybris (2024)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Hybris (2024)" />
+    <MESSAGE value="4 columns" />
+    <MESSAGE value="Updated description and summary for Hybris (2024) project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated description and summary for Hybris (2024) project" />
   </component>
 </project>
