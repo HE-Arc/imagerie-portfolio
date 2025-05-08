@@ -58,15 +58,6 @@ groupByYear = false
 cardView = true
 cardViewScreenWidth = true
 
-[disclaimer]
-showIcon = false
-cardColor = "#f2f2f2"
-text = '''**Les applications de visualisation interactive (2D / 3D / XR) comme support d’apprentissage**
-<br><br>
-Durant leur formation, les étudiants ont la possibilité, **s’ils le souhaitent**, d’appliquer les concepts centraux de l’informatique au développement d’applications de visualisation interactives (AR / VR, jeux sérieux, jeux vidéo, applications médicales, etc.). Ils utilisent des outils et des techniques avancées et reconnues comme la programmation GPU, les modeleurs 3D, ainsi que les moteurs graphiques les plus populaires.
-<br><br>
-**Ce portfolio est une sélection de projets réalisés à la HE-Arc Ingénierie. Il n’est pas représentatif de [l’ensemble des formations offertes à la HE-Arc Ingénierie.](https://www.he-arc.ch/projets-etudiants/?_domain=ingenierie&_training_branch=informatique-et-systemes-de-communication)**'''
-
 [sitemap]
 excludedKinds = []
 

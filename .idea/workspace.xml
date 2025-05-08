@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="New disclaimer on the front page">
+    <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Add new disclaimer to the front page and update CSS for height utility">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/compiled/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/compiled/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/languages.fr.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.fr.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
     "nodejs_package_manager_path": "npm",
     "npm.build.executor": "Run",
     "npm.dev.executor": "Run",
-    "settings.editor.selected.configurable": "configurable.tailwindcss",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -177,7 +176,7 @@
       <workItem from="1746601438484" duration="1834000" />
       <workItem from="1746605414962" duration="8340000" />
       <workItem from="1746634143065" duration="11000" />
-      <workItem from="1746699675816" duration="8946000" />
+      <workItem from="1746699675816" duration="10329000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -419,7 +418,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746702467734</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Add new disclaimer to the front page and update CSS for height utility">
+      <option name="closed" value="true" />
+      <created>1746710109500</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1746710109500</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update project details and new content for &quot;Guardian of The Dawn&quot;" />
     <MESSAGE value="New favicons" />
     <MESSAGE value="Added new article" />
     <MESSAGE value="Updated Ray marching article" />
@@ -462,6 +468,7 @@
     <MESSAGE value="4 columns" />
     <MESSAGE value="Updated description and summary for Hybris (2024) project" />
     <MESSAGE value="New disclaimer on the front page" />
-    <option name="LAST_COMMIT_MESSAGE" value="New disclaimer on the front page" />
+    <MESSAGE value="Add new disclaimer to the front page and update CSS for height utility" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new disclaimer to the front page and update CSS for height utility" />
   </component>
 </project>
