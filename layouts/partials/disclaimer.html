@@ -1,0 +1,38 @@
+{{ $icon := (default "triangle-exclamation" (.Site.Params.disclaimer.icon) ) }}
+{{ $showIcon := .Site.Params.disclaimer.showIcon }}
+{{ $cardColor := .Site.Params.disclaimer.cardColor }}
+{{ $iconColor := .Site.Params.disclaimer.iconColor }}
+{{ $text := .Site.Params.disclaimer.text }}
+{{ $textColor := .Site.Params.disclaimer.textColor }}
+
+
+<div id="disclaimer"
+  {{ if not $cardColor }}
+    class="max-w-full prose flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900 text-justify text-sm leading-5"
+  {{ else }}
+    class="max-w-full prose flex px-4 py-3 rounded-md text-justify text-sm leading-5"
+    style="background-color: {{ $cardColor }}"
+  {{ end }}>
+
+  <span
+    {{ if not $iconColor }}
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    {{ else }}
+      class="ltr:pr-3 rtl:pl-3 flex items-center"
+      style="color: {{ $iconColor }}"
+    {{ end }}>
+    {{ if $showIcon }}
+    {{ partial "icon.html" ($.Scratch.Get "icon") }}
+    {{ end }}
+  </span>
+
+  <span
+    {{ if not $textColor }}
+      class="dark:text-neutral-300"
+    {{ else }}
+      style="color: {{ $textColor }}"
+    {{ end }}>
+    
+    {{- $text | markdownify -}}
+  </span>
+</div>
