@@ -8,6 +8,8 @@ tags: ["Ra&D", "Groupe Imagerie", "Caméras RGB-D", "Nuages de points 3D"]
 authors : ["Christophe Müller", "Benoit Le Callennec"]
 ---
 
+{{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
+
 {{< figure src="gallery/GAPKO2_animated.gif" >}}
 
 ## Contexte et enjeux
@@ -31,5 +33,9 @@ Ce projet apporte une solution technique de capture et d’analyse du mouvement 
 Cette application-test répond à un besoin concret et dans un contexte scientifique solide, permettant ainsi d’envisager un transfert direct vers les patients et donc vers le marché. Le projet ne se focalise cependant pas uniquement sur les problèmes du genou ou même de la marche en général. Il ouvre des perspectives sur de nombreuses autres applications aussi bien au sein des instituts de santé que dans le monde industriel.
 
 A titre d’exemple, les axes les plus prometteurs sont les troubles musculo-squelettiques, l’entraînement sportif, les jeux vidéo et les expériences de VR/AR pour la conception et la maintenance industrielle.
+
+<---> <!-- magic separator, between columns -->
+
+{{% /columns %}}
 
 {{< description TICd>}}
