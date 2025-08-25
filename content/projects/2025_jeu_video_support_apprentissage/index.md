@@ -18,7 +18,7 @@ Utiliser le **jeu vidéo comme support d’apprentissage** permet d’aborder l�
 - **Feedback immédiat** : chaque action de programmation a un effet visuel ou interactif, ce qui facilite la compréhension.
 - **Itération rapide** : les tests fréquents et les ajustements progressifs renforcent l’apprentissage par l’expérimentation.
 
-> " Students accepted the C4G methodology and were motivated to learn how to program by developing games for solving real‑world problems. " – [Effectiveness of game development-based learning for acquiring programming skills in lower secondary education in Croatia](https://pmc.ncbi.nlm.nih.gov/articles/PMC7931171/) 
+> « Students accepted the C4G methodology and were motivated to learn how to program by developing games for solving real‑world problems. » – [Effectiveness of game development-based learning for acquiring programming skills in lower secondary education in Croatia](https://pmc.ncbi.nlm.nih.gov/articles/PMC7931171/) 
 
 ---
 
@@ -98,7 +98,7 @@ Utiliser le jeu vidéo comme support conduit à aborder les problématiques de p
 - **Technos professionnelles** : Unity, Unreal Engine, Godot, Blender, FMOD, WebGPU, etc.
 - **Pratiques standards** : documentation, versionnage, architecture modulaire.
 
-> "Through game development, students overcame challenges associated with text-based programming. The results indicate significant improvements in students' computational thinking, motivation, and collaboration." - [Programming competencies in university students through game development](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1585602/full) 
+> « Through game development, students overcame challenges associated with text-based programming. The results indicate significant improvements in students' computational thinking, motivation, and collaboration. » - [Programming competencies in university students through game development](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1585602/full) 
 
 ---
 
