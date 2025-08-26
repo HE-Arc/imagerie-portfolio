@@ -8,10 +8,9 @@ tags: ["Général"]
 authors : [""]
 ---
 
+## En résumé
 {{< lead >}}
-
-Utiliser **le développement de jeu vidéo comme support d’apprentissage** permet d’aborder l’informatique de façon concrète, motivante et complète. Ce n’est pas seulement une activité ludique : c’est un **véritable levier pédagogique**, reconnu pour développer des compétences techniques avancées tout en favorisant la créativité et l’autonomie.
-
+Utiliser le ***développement de jeu vidéo comme support d’apprentissage*** permet d’aborder l’informatique de façon concrète, motivante et complète. Ce n’est pas seulement une activité ludique : c’est un ***véritable levier pédagogique***, reconnu pour développer des compétences techniques avancées tout en favorisant la créativité et l’autonomie.
 {{< /lead >}}
 
 ---
@@ -25,6 +24,7 @@ Contrairement à l’idée reçue selon laquelle le jeu vidéo ne serait qu’un
 - **Transfert de compétences** : les méthodes et outils utilisés dans le jeu vidéo sont directement applicables à d’autres domaines de l’informatique et de l’ingénierie.
 
 En somme, le développement de jeu vidéo est une démarche pédagogique complète, qui va bien au-delà du simple fait de jouer : il s’agit d’un véritable terrain d’apprentissage pour les informaticiens de demain.
+
 ---
 
 ## 1. Un apprentissage engageant, progressif et visuel
