@@ -2,8 +2,8 @@
 title: "Boids (2025)"
 date: 2025-08-29
 draft: false
-description: "Simulation de Boids 2D en C++ et OpenGL."
-summary: "Simulation de Boids 2D en C++ et OpenGL."
+description: "Jeu multijoueur local réalisé avec Godot. Inspiré de TowerFall Ascension et Stick Fight : The Game."
+summary: "Jeu multijoueur local réalisé avec Godot. Inspiré de TowerFall Ascension et Stick Fight : The Game."
 tags: ["3ème année", "Projet P3 HES d'été", "C++", "OpenGL"]
 authors : ['Joey Schmied', "Julien Brechbühler", "Alexandre Guillaume"]
 ---
