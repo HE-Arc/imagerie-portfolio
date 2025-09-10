@@ -1,22 +1,22 @@
 ---
-title: "Boids (2025)"
+title: "Bite the Bullet (2025)"
 date: 2025-08-29
 draft: false
-description: "Jeu multijoueur local réalisé avec Godot. Inspiré de TowerFall Ascension et Stick Fight : The Game."
-summary: "Jeu multijoueur local réalisé avec Godot. Inspiré de TowerFall Ascension et Stick Fight : The Game."
-tags: ["3ème année", "Projet P3 HES d'été", "C++", "OpenGL"]
-authors : ['Joey Schmied', "Julien Brechbühler", "Alexandre Guillaume"]
+description: "Jeu multijoueurs local réalisé avec Godot."
+summary: "Jeu multijoueurs local réalisé avec Godot."
+tags: ["3ème année", "Projet P3 HES d'été", "Godot", "2D"]
+authors : ["Dapples Simon", "Schnegg David", "Zbinden Yohan"]
 ---
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
 
-**Boids** est un simulateur d'entités se déplaçant selon le modèle de *Craig Reynolds* (Siggraph 1987).
-Il est implémenté en C++ avec OpenGL pour le rendu graphique.
-Il utilise les QuadTrees pour optimiser les calculs de voisinage entre les entités.
-Il gère également l'évitement des collisions entre les entités et les obstacles.
-Enfin, il intègre une GUI avec ImGui pour permettre à l'utilisateur de modifier les paramètres du modèle en temps réel.
+**Bite the Bullet** est un jeu d’action/arcade en multijoueurs local, dans lequel 2 joueurs s’affrontent à travers une série de mini-duels.
+Chaque victoire permet de progresser sur le terrain adverse, jusqu’à atteindre son bord pour gagner la partie.
+Le jeu est inspiré d’Eggnogg+ et se distingue par l’ajout de nouvelles mécaniques, notamment un système de changement d’armes influençant le gameplay.
+Il est réalisé avec le moteur Godot, en utilisant les langages GDScript et C++, et intègre la gestion de manettes pour enrichir l’expérience de jeu.
+L’objectif est de créer un jeu simple mais dynamique, avec une interface claire, des animations basiques, et des effets sonores personnalisables.
 
-{{< youtubeLite id="e2uPGnN11CY" label="Boids (2025)" >}}
+{{< youtubeLite id="PlvToUYzbGU" label="Bite the Bullet (2025)" >}}
 
 <---> <!-- magic separator, between columns -->
 
