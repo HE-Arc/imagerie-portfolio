@@ -5,7 +5,7 @@ draft: false
 description: "Le développement de jeu vidéo comme support d'apprentissage"
 summary: "Le jeu vidéo comme support d'apprentissage"
 tags: ["Général"]
-authors : [""]
+authors : ["Benoit Le Callennec"]
 ---
 
 ## En résumé
