@@ -6,11 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="c4f028f4-4434-44a3-a590-e10753032428" name="Changes" comment="Add new disclaimer section in French language files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2025_ACP/featured.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/projects/2025_ACP/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/2025_ACP/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1485" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,10 +63,11 @@
     "Hugo.Hugo server.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/IL_Portfolio/layouts/_default",
+    "last_opened_file_path": "C:/Users/antoine.lestrade/Documents/Projets/imagerie-portfolio/content/projects/2025_ACP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,11 +81,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\antoine.lestrade\Documents\Projets\imagerie-portfolio\content\projects\2025_ACP" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\layouts\_default" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\layouts\partials" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\layouts\shortcodes" />
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_tb_hybris" />
-      <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2024_tb_hybris\gallery" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\antoine.lestrade\Documents\Projets\IL_Portfolio\content\projects\2021_unity_path_of_the_wisp" />
@@ -144,7 +151,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.332" />
       </set>
     </attachedChunks>
   </component>
@@ -175,6 +182,7 @@
       <workItem from="1746605414962" duration="8340000" />
       <workItem from="1746634143065" duration="11000" />
       <workItem from="1746699675816" duration="12500000" />
+      <workItem from="1765455096276" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="Add submodule for Blowfish theme">
       <option name="closed" value="true" />
@@ -476,5 +484,13 @@
     <MESSAGE value="Add new disclaimer to the front page and update CSS for height utility" />
     <MESSAGE value="Add new disclaimer section in French language files" />
     <option name="LAST_COMMIT_MESSAGE" value="Add new disclaimer section in French language files" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>

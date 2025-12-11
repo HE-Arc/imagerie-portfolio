@@ -9,9 +9,10 @@ authors : ["Olivia Conscience", "Mathias Rusticoni", "Antoine Lestrade"]
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
 
-Durant 1 semaine, les étudiants suivant l’année de connaissances professionnelles (ACP) ont l'opportunité de suivre un mini-cours et de créer un projet de jeu vidéo 2D réalisé avec Unity.
+Durant 1 semaine, les étudiant·e·s de l'année de connaissances professionnelles (ACP) ont l'opportunité de suivre un mini‑cours introductif à Unity. Ils réalisent un projet de jeu vidéo 2D complet de A à Z, de la rédaction du Game Design Document (GDD) jusqu'à un prototype jouable et la publication sur le Web.
+
 Aspi Casper Pursuit est un jeu d'aventure/plateforme dans lequel le joueur contrôle un aspirateur de fantômes.
-Le jeu est jouable directemetn dans le navigateur ici : [Aspi Casper Pursuit](https://estradel.itch.io/aspi-casper-pursuit).
+Le jeu est jouable directement dans le navigateur ici : [Aspi Casper Pursuit](https://estradel.itch.io/aspi-casper-pursuit).
 
 {{< youtubeLite id="mCm7WpuomWc" label="Stage ACP (Janvier 2025)" >}}
 
