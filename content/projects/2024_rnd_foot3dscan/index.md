@@ -14,7 +14,7 @@ authors : ["Ivan Serra Moncadas", "Benoit Le Callennec"]
 Les physiothérapeutes ont besoin de faire un scan 3D détaillé des pieds d’un patient au début d’une séance. Cela permettrait d’optimiser l’analyse de la marche, d’affiner les diagnostics et de proposer des traitements mieux adaptés. L’analyse précise des pieds repose sur la qualité des données initiales recueillies lors de l’examen. Dans ce cadre, une mesure fine et rapide de la morphologie du pied constitue un élément essentiel pour améliorer l’interprétation des paramètres cliniques.
 
 À l’heure actuelle, aucune solution disponible ne permet d’obtenir un modèle 3D des pieds qui soit à la fois rapide, fiable et suffisamment pratique pour être intégré en routine clinique. Les outils existants sont souvent trop lents, trop coûteux ou trop complexes à manipuler durant une consultation. Dès lors, il devient nécessaire de concevoir une solution sur mesure, pensée pour le confort du patient et l’efficacité du professionnel de santé.
-Ce projet fait suite au projet GapKo.
+Ce projet fait suite au projet GapKo. [Gapko] (https://he-arc.github.io/imagerie-portfolio/projects/2023_rnd_gapko/)
 
 {{< youtubeLite id="RHN5QRGbgyY" label="Prototype Foot 3D Scan (2024)" >}}
 
