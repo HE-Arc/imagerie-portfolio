@@ -3,7 +3,7 @@ title: "Foot 3D Scan"
 date: 2024-11-07
 draft: false
 description: "Scan de pied pour aider les physiothérapeutes"
-tags: ["Ra&D", "Groupe Imagerie", "Caméras RGB-D", "Nuages de points 3D"]
+tags: ["Ra&D", "Groupe Imagerie", "Motion-Lab@HE-Arc", "Caméras RGB-D", "Nuages de points 3D"]
 authors : ["Ivan Serra Moncadas", "Benoit Le Callennec"]
 ---
 

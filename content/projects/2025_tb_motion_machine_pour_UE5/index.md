@@ -4,7 +4,7 @@ date: 2025-08-26
 draft: false
 description: "Motion Machine pour UE5 (2025)"
 summary: "Motion Machine pour UE5 (2025)"
-tags: ["3ème année", "Travail de Bachelor", "Unreal Engine 5", "Animation 3D" ]
+tags: ["3ème année", "Travail de Bachelor", "Motion-Lab@HE-Arc", "Unreal Engine 5", "Animation 3D" ]
 authors : ["Elisa Goloviatinski"]
 ---
 

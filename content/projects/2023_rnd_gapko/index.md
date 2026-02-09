@@ -4,7 +4,7 @@ date: 2023-09-01
 draft: false
 description: "Analyser la marche pour la pratique clinique courante"
 summary: "Analyser la marche pour la pratique clinique courante"
-tags: ["Ra&D", "Groupe Imagerie", "Caméras RGB-D", "Nuages de points 3D"]
+tags: ["Ra&D", "Groupe Imagerie", "Motion-Lab@HE-Arc", "Caméras RGB-D", "Nuages de points 3D"]
 authors : ["Christophe Müller", "Benoit Le Callennec"]
 ---
 
