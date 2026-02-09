@@ -4,7 +4,7 @@ date: 2026-01-28
 draft: false
 description: "Stage ACP : jeu 2D avec Unity"
 tags: ["Externe", "ACP", "Unity", "2D"]
-authors : ["Yaman Dia Eddine", "Ivan Serra Moncadas", " Benoit Le Callennec"]
+authors : ["Yaman Dia Eddine", "Ivan Serra Moncadas"]
 ---
 
 {{% columns ratio="3:1" class="space-x-4" %}} <!-- begin columns block -->
