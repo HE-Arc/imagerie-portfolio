@@ -3,7 +3,7 @@ title: "Motion-Lab @ HE-Arc"
 date: 2026-03-11
 draft: false
 description: "Laboratoire de capture de mouvements 3D @ HE-Arc"
-tags: ["Ra&D", "Groupe Imagerie", "Motion-Lab@HE-Arc", "Sports & Rehabilitation", "Animation 3D"]
+tags: ["Ra&D", "Groupe Imagerie", "Motion-Lab @ HE-Arc", "Sports & Rehabilitation", "Animation 3D"]
 authors : ["Ivan Serra Moncadas", "Antoine Lestrade", "Nicolas Wenk", "Benoit Le Callennec"]
 ---
 
