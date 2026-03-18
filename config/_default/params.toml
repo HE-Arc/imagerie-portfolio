@@ -1,7 +1,7 @@
 colorScheme = "hearc"
 defaultAppearance = "light"
 autoSwitchAppearance = false
-enableSearch = false
+enableSearch = true
 enableCodeCopy = true
 
 [header]

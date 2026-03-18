@@ -1,1 +1,16 @@
+#search-query,
+#search-query:focus,
+#search-query:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
 
+#search-results a {
+  background-color: #ffffff !important;
+}
+
+#search-results a:hover,
+#search-results a:focus {
+  background-color: rgba(223, 25, 36, 0.1) !important;
+}
